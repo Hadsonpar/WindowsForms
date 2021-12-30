@@ -1,0 +1,16 @@
+D:\GitHub\Microsoft\02-LOGIN\CapaPresentacion\bin\Debug\ACapaPresentacion.exe.config
+D:\GitHub\Microsoft\02-LOGIN\CapaPresentacion\bin\Debug\ACapaPresentacion.exe
+D:\GitHub\Microsoft\02-LOGIN\CapaPresentacion\bin\Debug\ACapaPresentacion.pdb
+D:\GitHub\Microsoft\02-LOGIN\CapaPresentacion\bin\Debug\CapaNegocio.dll
+D:\GitHub\Microsoft\02-LOGIN\CapaPresentacion\bin\Debug\CapaDatos.dll
+D:\GitHub\Microsoft\02-LOGIN\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+D:\GitHub\Microsoft\02-LOGIN\CapaPresentacion\bin\Debug\CapaDatos.pdb
+D:\GitHub\Microsoft\02-LOGIN\CapaPresentacion\obj\Debug\ACapaPresentacion.csproj.AssemblyReference.cache
+D:\GitHub\Microsoft\02-LOGIN\CapaPresentacion\obj\Debug\CapaPresentacion.FrmLogin.resources
+D:\GitHub\Microsoft\02-LOGIN\CapaPresentacion\obj\Debug\CapaPresentacion.FrmUsuario.resources
+D:\GitHub\Microsoft\02-LOGIN\CapaPresentacion\obj\Debug\ACapaPresentacion.Properties.Resources.resources
+D:\GitHub\Microsoft\02-LOGIN\CapaPresentacion\obj\Debug\ACapaPresentacion.csproj.GenerateResource.cache
+D:\GitHub\Microsoft\02-LOGIN\CapaPresentacion\obj\Debug\ACapaPresentacion.csproj.CoreCompileInputs.cache
+D:\GitHub\Microsoft\02-LOGIN\CapaPresentacion\obj\Debug\ACapaPresentacion.csproj.CopyComplete
+D:\GitHub\Microsoft\02-LOGIN\CapaPresentacion\obj\Debug\ACapaPresentacion.exe
+D:\GitHub\Microsoft\02-LOGIN\CapaPresentacion\obj\Debug\ACapaPresentacion.pdb
